@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "compostable-cup-bin-project",
+  "private_key_id": "abe8f907feca5af63548e7258e0be180ea7a7b09",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCiDk+rFy5zbPhw\nH7NrN7GoEY2KAZWKbS9N9cbP2EonTap6+qX/V2uXITqS0te2KTEl/n7Bmno5si+/\nr8NeJN99LxOz7OlvUyprxxMkjNk1N9vHfR0nPGA+wXor2y6KMswLtKfDKAAKokHz\nDKc0znQXUCyxt9nNRvJEH6vPwV9HsxrzobXRXqdIiGrwO+glymxEl9cXY4nHPxqU\n89L68VQcGpSCI4Gk6pLv1dHBQTurAjVPb8v+FynvguKrouEWppMdu1CanG3k2r68\nGrkkgroNIWQeaJhvH5MzZEEumSkOqixURINCVnNurTEjlRgMvcIycwSuquUyET0L\nFQeS1Lt5AgMBAAECggEACAaMqkDVhXSe+KGPR4bsctH8uBoUO3TlD/e1Kv+vi3MA\nl4LQg/ziuIs2HQWZVn2DgDnScfjaJv+Utwnns2LA2TCiyYk49dEQ86G6KFgb3TN5\nHE/tSM9IBm+bQu8BxukVWxqNKOBzIROwT66/nKFBVVK8heggnpaOArLtVbaCRxkK\n0BFayiGQZPXCMFv1unGczygNXjyTUB4LRWQYdI8eTms/OY0/wrv8LuDS3IQsZcaf\nU0AZHCcmAZ2wqkNoQycUDZ8XqphMBu2z7Ommi8cl5Btz7kwVvBArEw7irwE3bWXc\nt3CKwrkffCCbZH23HDW8KaqyeGd/L2jcSqzOPhHiAQKBgQDWaxgQzwtiw5O2Xwnx\nPEwC8IUCRtcaSZ8qiKIx3S2AuqH1eHdjm8qY6efcVgCuQLsXar+RqEHU1b87MbaM\npzQb4Dp3Gdwd6u/EQqX6e+xF+jxfM3mGI5LazqS3jZAbuSiu3TYDS8FAWyIv5eKe\nU5Pj5m3YWOMj0b+0X7obTbl1eQKBgQDBe6htVYLMRZtbelveuYK6yRYXxFZStKlX\nr4hP30y2+QkyyYx2sWLemFx2xHyxHDqgc7ccZGKa/jOYfl0y0eBh1FxbXcrm09AS\n3g49VAcfm5GESCI/ze202xqZlJS3Wc0peneihPFAHEfzBp0pSUBltsyKKMPGZGgT\ni+LU7sH2AQKBgQCA7AGbUbIp3yh4lipXNwcJGW8QEGITd0LRgzfqvW83oH/zJUy7\nwpeNW87Ch59/JoKXsOKghMeYXjDOObTmWz6UqDzfEdhs0K77lYtQ0aQd6zjTkRK3\nmboZ//fAOcj1Ml6IzY9Fag43UNR8cj/RLLWWaR2Q4Nkp11rp7EjtU814GQKBgQCT\noBo+ccQ+v81t2spGAh1xDwTAVZnXuOiMcu36o1IROap/CbEWzvm1BWNnazwIlpVU\n33WTQDTMNbCAZcoOgHxHqJRfUg0CWhKkkrEisf5Na5F38OHQ9Pqtx49gJzHhQ696\nOmsVoYHBfNKY5y761V1BPlyJ/diCgxG1+EG2XgW4AQKBgQDNnQgyd1UnAsBPQ8lL\nduI0lo3qjwN4n3ESESe37ZVW6J6Q4yMcVOrE9ZRm0D+EmcAUDPJDbLy/HP5SIaBB\nhyBKIjbODBj80dx4m55SPKJKEt+YnlpH6fR75UX9BWfHMu8Cvo9yw1C0RPz1rcfK\n1c1WUJ5nveJSWkihQWaec0w7fQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "readnwrite@compostable-cup-bin-project.iam.gserviceaccount.com",
+  "client_id": "103447892693464344175",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/readnwrite%40compostable-cup-bin-project.iam.gserviceaccount.com"
+}

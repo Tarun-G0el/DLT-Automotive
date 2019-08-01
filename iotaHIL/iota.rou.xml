@@ -1,0 +1,37 @@
+<routes>
+<vType accel="1.0" decel="5.0" id="Car" length="5.0" maxSpeed="10.0" sigma="0.0" />
+<vType accel="1.0" decel="5.0" id="Bus" length="12.0" maxSpeed="2.0" sigma="0.0" />
+
+	
+	<routeDistribution id="routeDist">
+		<route id="route0" color="1,1,0" edges="1to4 4to5"/>
+		<route id="route1" color="1,0.5,0" edges="2to4 4to5"/>
+		<route id="route2" color="1,0,0" edges="3to4 4to5"/>
+    </routeDistribution>
+	
+	<vehicle depart="10" id="veh0" route="routeDist" type="Car" />
+	<vehicle depart="20" id="veh1" route="routeDist" type="Car" />
+	<vehicle depart="30" id="veh2" route="routeDist" type="Car" />
+	<vehicle depart="40" id="veh3" route="routeDist" type="Car" />
+	<vehicle depart="50" id="veh4" route="routeDist" type="Car" />
+	<vehicle depart="60" id="veh5" route="routeDist" type="Car" />
+	<vehicle depart="70" id="veh6" route="routeDist" type="Car" />
+	<vehicle depart="80" id="veh7" route="routeDist" type="Car" />
+	<vehicle depart="90" id="veh8" route="routeDist" type="Car" />
+	<vehicle depart="100" id="veh9" route="routeDist" type="Car" />
+	<vehicle depart="110" id="veh10" route="routeDist" type="Car" />
+	<vehicle depart="120" id="veh11" route="routeDist" type="Car" />
+	<vehicle depart="130" id="veh12" route="routeDist" type="Car" />
+	<vehicle depart="140" id="veh13" route="routeDist" type="Car" />
+	<vehicle depart="150" id="veh14" route="routeDist" type="Car" />
+	<vehicle depart="160" id="veh15" route="routeDist" type="Car" />
+	<vehicle depart="170" id="veh16" route="routeDist" type="Car" />
+	<vehicle depart="180" id="veh17" route="routeDist" type="Car" />
+	<vehicle depart="190" id="veh18" route="routeDist" type="Car" />
+	<vehicle depart="200" id="veh19" route="routeDist" type="Car" />
+	<vehicle depart="210" id="veh20" route="routeDist" type="Car" />
+	<vehicle depart="220" id="veh21" route="routeDist" type="Car" />
+	<vehicle depart="230" id="veh22" route="routeDist" type="Car" />
+	<vehicle depart="240" id="veh23" route="routeDist" type="Car" />
+	<vehicle depart="250" id="veh24" route="routeDist" type="Car" />
+</routes>
